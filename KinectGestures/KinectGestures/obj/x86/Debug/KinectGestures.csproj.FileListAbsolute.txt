@@ -1,0 +1,16 @@
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\bin\Debug\KinectGestures.exe
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\bin\Debug\KinectGestures.pdb
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\bin\Debug\KinectMouseController.dll
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\obj\x86\Debug\KinectGestures.csprojResolveAssemblyReference.cache
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\obj\x86\Debug\MainWindow.baml
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\obj\x86\Debug\MainWindow.g.cs
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\obj\x86\Debug\App.g.cs
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\obj\x86\Debug\KinectGestures_MarkupCompile.cache
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\obj\x86\Debug\KinectGestures.g.resources
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\obj\x86\Debug\KinectGestures.Properties.Resources.resources
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\obj\x86\Debug\KinectGestures.csproj.GenerateResource.Cache
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\obj\x86\Debug\KinectGestures.exe
+D:\Users\Musaab\Documents\Visual Studio 2010\Projects\KinectGestures\KinectGestures\obj\x86\Debug\KinectGestures.pdb
